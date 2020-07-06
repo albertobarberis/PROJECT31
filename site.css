@@ -1,0 +1,30 @@
+
+body{
+    color: rgb(190,159,54);
+    font-family: 'Courier';
+    background-color: black;
+    text-align: center;
+    /* background-image: url("invisible.jpg"); */
+    
+}
+
+.frase{
+padding: 0.7em;
+      font-size: 3em;
+
+}
+
+.info{
+
+
+      font-size: 1.5em;
+      margin-bottom: 2em;
+
+ 
+}
+
+.mylink, .mylink:hover{
+    
+    /* text-decoration: none; */
+    color: rgb(190,159,54);
+}
